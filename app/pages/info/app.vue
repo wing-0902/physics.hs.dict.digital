@@ -10,7 +10,7 @@ definePageMeta({
 
 <template>
   <h1 leading-none>
-    地理探求<br />
-    <small text-4>Dictionary_digital</small>
+     物理<br />
+    <small text-4>dict.digital</small>
   </h1>
 </template>
