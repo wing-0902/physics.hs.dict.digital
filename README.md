@@ -1,4 +1,4 @@
-# [地理探求　用語辞書](https://geography.hs.dict.digital)
+# [物理　用語辞書](https://physics.hs.dict.digital)
 
 ## ディレクトリ構造
 
