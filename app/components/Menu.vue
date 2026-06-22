@@ -111,7 +111,7 @@ const copyUrlScheme = () => {
           </li>
           <li>
             <NuxtLink
-              to="https://github.com/wing-0902/hs-geography"
+              to="https://github.com/wing-0902/physics.hs.dict.digital"
               target="_blank"
             >
               <span i-hugeicons-github-01></span>
