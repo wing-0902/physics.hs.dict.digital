@@ -13,7 +13,7 @@ const { data: post } = await useAsyncData(`dict-${slugPath}`, () => {
 });
 
 useSeoMeta({
-  title: post.value?.title + ' - 地理探求'
+  title: post.value?.title + ' - 物理'
 });
 
 definePageMeta({
