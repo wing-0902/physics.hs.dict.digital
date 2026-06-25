@@ -13,7 +13,7 @@ const { data: post } = await useAsyncData(`dict-${slugPath}`, () => {
 });
 
 useSeoMeta({
-  title: post.value?.title + ' - 物理'
+  title: post.value?.title + ' - 物理 - dict.digital'
 });
 
 definePageMeta({
