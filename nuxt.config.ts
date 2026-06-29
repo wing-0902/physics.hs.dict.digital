@@ -1,4 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
+import 'katex/contrib/mhchem';
+
 export default defineNuxtConfig({
   app: {
     head: {
